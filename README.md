@@ -11,4 +11,10 @@ I am a senior software engineer with 13+ years of experience in developing and d
 
 ## Connect with me 📫
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/parsa-gachkar), [Twitter](https://twitter.com/parsa_gachkar), or [GitHub](https://github.com/ParsaGachkar). Feel free to reach out to me if you have any questions or feedback. I would love to hear from you. 😄
+You can find me on 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parsa-gachkar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whit)](https://twitter.com/parsa_gachkar)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParsaGachkar)
+
+Feel free to reach out to me if you have any questions or feedback. I would love to hear from you. 😄

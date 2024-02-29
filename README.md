@@ -4,7 +4,7 @@ I am a senior software engineer with 13+ years of experience in developing and d
 
 ## My favorite projects 💻
 
-- [FluentCMS](https://abp.io/): A modern Content Management System (CMS) built on the powerful ASP.NET framework and the innovative Blazor technology.
+- [FluentCMS](https://github.com/fluentcms): A modern Content Management System (CMS) built on the powerful ASP.NET framework and the innovative Blazor technology.
 - [Abp.io](https://abp.io/): A complete web development platform based on the .NET framework and modern UI/UX libraries.
 - [Maui](https://github.com/dotnet/maui): A cross-platform framework for building native mobile and desktop apps with .NET and C#.
 - [Blazor](https://blazor.net/): A framework for building interactive web UIs using C# instead of JavaScript.

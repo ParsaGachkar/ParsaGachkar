@@ -4,6 +4,7 @@ I am a senior software engineer with 13+ years of experience in developing and d
 
 ## My favorite projects 💻
 
+- [TextBox](https://github.com/ParsaGachkar/TextBox): Simple SMS mocking API + dashboard - C# .NET + Blazor. Ship as a Docker image for local/dev testing and consume via a NuGet SDK.
 - [FluentCMS](https://github.com/fluentcms): A modern Content Management System (CMS) built on the powerful ASP.NET framework and the innovative Blazor technology.
 - [Abp.io](https://abp.io/): A complete web development platform based on the .NET framework and modern UI/UX libraries.
 - [Maui](https://github.com/dotnet/maui): A cross-platform framework for building native mobile and desktop apps with .NET and C#.
